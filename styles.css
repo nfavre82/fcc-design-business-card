@@ -1,0 +1,85 @@
+/*BODY*/
+
+/*1. Styled body according to FCC specifications*/
+body {
+    background-color: rosybrown;
+    font-family: Arial, sans-serif;
+}
+
+/*PARAGRAPHS AND TEXT STYLING*/
+
+/*2. Styled p elements according to FCC specifications*/
+p {
+ margin: 5px auto;
+}
+
+/*3. Applied styling of my own choosing to .full-name*/
+.full-name {
+    font-size: 30px;
+}
+
+/*4. Applied styling of my own choosing to .designation*/
+.designation {
+    color: #c9c6d3;
+    font-size: large;
+    margin: 4px auto;
+}
+
+/*5. Applied styling of my own choosing to .company*/
+.company {
+    color: #e6dccf;
+    margin: 8px auto;
+    text-transform: uppercase;
+}
+
+/*6. Applied styling to .contact to highlight email and phone rubrics*/
+.contact {
+    color: pink;
+    font-weight: bold;
+}
+
+/*ANCHOR LINKS*/
+
+/*7. Applied color of my own choosing for anchor selector .*/
+a {
+color: pink;
+/*8. Applied text-decoration according to FCC specifications*/
+text-decoration: none;
+/*9. Applied font-weight property with bold value*/
+font-weight: bold;
+/*10. Applied margins and paddings of my own choosing*/
+margin: auto 15px;
+padding: auto 10px;
+}
+
+/*BUSINESS CARD CLASS SELECTOR*/ 
+
+/*11. Styling margins, padding, text-align and font-size properties according to FCC specifications*/
+.business-card {
+/*7. Applied border properties of my own choosing*/
+    border: solid #b9a7c6 3px ;
+/*8. Applied background-color of my own choosing*/
+    background-color: indigo; 
+/*9. Applied text color of my own choosing*/
+    color: ghostwhite; 
+/*10. Applied top, right and left margins according to FCC specifications. Applied padding, text-align and font-size according to FCC specifications. Applied bottom margin of my own choosing*/
+    font-size: 16px;
+    margin: 100px auto 2px; 
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+}
+
+/*PICTURE IMAGE SELECTOR*/
+
+/*11. Applied max-width to .picture-image according to FCC specifications*/
+.profile-image {
+/*12. Applied display property with inline-block value*/
+    display: inline-block; 
+    max-width: 100%;
+/*13. Applied width and height of my own choosing*/
+    width: 55%;
+    height: auto;
+/*14. Applied border properties of my own choosing*/
+    border: solid #d4a3a3 2px;
+}
