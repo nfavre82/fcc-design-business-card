@@ -45,7 +45,7 @@ Below are two versions of this project:
 Feel free to compare the two and see how I approached the project differently!
 
 | FreeCodeCamp Example | My Version|
-| ![FCC Example](assets\project-thumbnails\business-card-fcc-original.png) | ![My Version](assets\project-thumbnails\business-card-my-version.png) |
+| [FCC Example](assets\project-thumbnails\business-card-fcc-original.png) | [My Version] |
 
 ---
 
@@ -56,3 +56,6 @@ For this project, I practiced a basic developer workflow:
 - Created the project locally using VS Code and the terminal
 - Tracked changes with Git (`git add`, `git commit`)
 - Published and updated the repository on GitHub using GitHub CLI (`gh`)
+
+
+[def]: assets\project-thumbnails\business-card-my-version.png
