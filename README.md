@@ -42,11 +42,11 @@ Below are two versions of this project:
 
 - **FreeCodeCamp Example:** The official version provided by FreeCodeCamp as a reference. 
 
-| ![freeCodeCamp Example](assets/project-thumbnails/business-card-fcc-original.png) |
+![freeCodeCamp Example](assets/project-thumbnails/business-card-fcc-original.png)
 
 - **My Version:** My personal implementation, where I applied my own design choices and i| mprovements. 
 
-| ![My Version](assets/project-thumbnails/business-card-my-version.png)|
+![My Version](assets/project-thumbnails/business-card-my-version.png)
 
 Feel free to compare the two and see how I approached the project differently!
 
