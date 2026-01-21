@@ -45,7 +45,7 @@ Below are two versions of this project:
 Feel free to compare the two and see how I approached the project differently!
 
 | FreeCodeCamp Example | My Version|
-| [FCC Example](assets\project-thumbnails\business-card-fcc-original.png) | [My Version] |
+| [FCC Example](assets\project-thumbnails\business-card-fcc-original.png) | [My Version](assets\project-thumbnails\business-card-my-version.png)|
 
 ---
 
