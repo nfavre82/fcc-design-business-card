@@ -32,7 +32,20 @@ The goal of the exercise was to build a simple business card using basic HTML st
 ## Notes
 
 This is a learning project.  
-I extended the original exercise with small stylistic choices (colors, spacing, typography) to reflect my personal learning progress while respecting FreeCodeCamp requirements.
+I extended the original exercise with small stylistic choices (colors, spacing, typography) to reflect my personal learning progress while respecting FreeCodeCamp requirements. 
+
+---
+## Project Thumbnails
+
+Below are two versions of this project:
+
+- **FreeCodeCamp Example:** The official version provided by FreeCodeCamp as a reference.  
+- **My Version:** My personal implementation, where I applied my own design choices and improvements.  
+
+Feel free to compare the two and see how I approached the project differently!
+
+| FreeCodeCamp Example | My Version|
+| [![FCC Example](assets\project-thumbnails\buisness-card-fcc-original.png) | [![My Version](assets\project-thumbnails\business-card-my-version.png) |
 
 ---
 
